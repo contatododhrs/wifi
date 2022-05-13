@@ -1,0 +1,65 @@
+#fundo{
+    background-color:  
+} 
+
+body{
+    color: black;
+    margin: 0px 80px;
+}
+h1{
+    
+    color: black;
+    text-align: center;
+    font-family: monospace;
+}
+header{
+    padding: 20px 0px;
+    color: black;
+    text-align: end;
+    font-family: monospace;
+}
+h2{
+    color: black;
+    text-align: center;
+    font-family: monospace;
+}
+p{
+    font-size:x-large;
+    font-family: monospace;
+}
+#topico{
+    font-family: monospace;
+    font-size: x-large;
+    text-align: center;
+}
+#sub{
+    font-size: x-large;
+    font-family: monospace;
+    
+}
+#cadeado{
+    position: flex;
+    padding-left: 720px;
+    color: red;
+}
+#sub_1{
+    font-family: monospace;
+    font-size: x-large;
+}
+#sub_2{
+    font-size: x-large;
+    font-family: monospace;
+}
+#sub_3{
+    font-family: monospace;
+    font-size: x-large;
+}
+#roteador{
+    width:300px;
+    height:200px;
+    padding-left: 666px
+}
+#local{
+    width: 450px;
+    padding-left: 620px;
+}
